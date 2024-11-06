@@ -1,7 +1,12 @@
+body {
+  background: linear-gradient(to top, #bd87a7, #a65084);
+  color: #ffffff;
+}
+
 /* Estilo da Navbar */
   .navbar-brand {
-    font-size: 1.5rem;
-    color: #333;
+    font-size: 2.5rem;
+    color: #ffffff;
   }
   
   .nav-link {
