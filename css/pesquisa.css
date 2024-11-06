@@ -18,10 +18,12 @@ h1 {
 h2 {
     color: #ffffff;
     margin-top: 20px;
+    font-size: 50px;
 }
 
 p {
     line-height: 1.6;
+    font-size: 30px;
 }
 
 .section {
