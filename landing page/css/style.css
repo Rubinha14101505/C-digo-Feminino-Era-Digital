@@ -5,12 +5,11 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-body {
+ body {
     background: linear-gradient(to top, #bd87a7, #a65084);
     color: #ffffff;
     text-align: center;
     overflow-x: hidden;
-
 }
 
 .navbar {
